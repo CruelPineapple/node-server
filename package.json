@@ -2,7 +2,7 @@
     "name": "server",
     "version": "1.0.0",
     "scripts": {
-        "start": "node src/test.js"
+        "start": "node src/server.js"
     },
     "license": "MIT",
     "dependencies": {

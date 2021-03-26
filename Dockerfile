@@ -1,4 +1,4 @@
-FROM node:12.18.3-slim
+FROM node:14.16.0
 
 WORKDIR /usr/app/00-static
 COPY . .
